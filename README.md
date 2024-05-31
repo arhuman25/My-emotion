@@ -3,7 +3,7 @@
 <h4 align="center">Entering a sentence or a phrase on how you feel, denotes what type of emotion you're having right now</h4>
 
 <h4 align="center"> - Built with Python</h4>
-<h4 align="center"> - Total lines of code : 14 </h4>
+<h4 align="center"> - Total lines of code : 21 </h4>
 <h4 align="center"> - Total modules imported : 1 </h4>
 <h4 align="center"> - 📫 How to reach me aryar1493@gmail.com </h4>
 <h4 align="center"> - ⚡ Fun fact : Uses Sentiment Analysis to denote your emotional state </h4>
